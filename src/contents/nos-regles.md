@@ -46,7 +46,7 @@ Nous ne vendons, ni ne faisons aucun traitement sur vos données personnelles af
 
 ## Modération active contre le racisme, le sexisme, l'homophobie et la transphobie
 
-...
+Je dois rechercher des infos sur la loi de 2016
 
 ## Pacte de serveur Mastodon
 
